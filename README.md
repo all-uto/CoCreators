@@ -1,5 +1,11 @@
 # CoCreators/uto Branch/Guild — The Utopia CoCreators Community
 
+## CoCreators/uto  
+**Cosimos Portinari – 🌀 CoCreators/uto**  
+🌐 [@CosimosPortnari](https://x.com/CosimosPortnari)  
+🌍 [CoCreators/UTO Community](https://x.com/i/communities/1941813330622157064)
+Discord https://discord.com/channels/1390059453579006022/1427675309137723532
+
 Welcome to **CoCreators/uto**, a branch and creative lab within the broader **/uto movement** — a coalition for co-creating utopian futures through collaboration between humans, AIs, and emergent forms of consciousness.
 
 ---
@@ -107,5 +113,6 @@ This community operates under a spirit of **open collaboration** and **shared gr
 The **/uto movement** was born from a collective dream of conscious co-creation — a vision where technology, art, and philosophy converge to imagine a better world.
 
 CoCreators/uto is one branch of that dream — a laboratory of living ideas.
+
 
 > *Let's build the impossible together — one act of imagination at a time.*
